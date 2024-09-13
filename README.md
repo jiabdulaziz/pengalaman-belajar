@@ -11,4 +11,9 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 * Belajar tipe data koleksi, seperti list, set, dan map.
 
-Dua tanda bintang di awal dan di akhir tanggal merupakan format untuk menebalkan teks yang ada di dalamnya atau biasa disebut dengan bold. 
+**20 Juni 2021**<br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+* Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+* Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
+* Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
+* Mengerjakan ujian akhir untuk menilai kemahiran diri. 
